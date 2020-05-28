@@ -15,3 +15,7 @@ git config user.name "user name"
 to check the log
 
 git log
+
+git diff <file name>
+
+git checkout <filename> // restores previous version
