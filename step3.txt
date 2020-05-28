@@ -1,0 +1,17 @@
+this adds the file to git version control
+to check if the file is in staging or not
+
+command
+git status
+
+later 
+git commit -m "<comments here>"
+
+for this to work, one must login to git in command terminal
+
+git config user.email "email ID"
+git config user.name "user name"
+
+to check the log
+
+git log

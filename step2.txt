@@ -1,0 +1,4 @@
+for a file to be tracked in git
+it must be in staging area
+to do that, we need to give command
+git add <filename>
